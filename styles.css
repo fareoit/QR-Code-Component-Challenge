@@ -1,0 +1,51 @@
+/******TAG SELECTORS******/
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+h1 {
+    color: hsl(218, 44%, 22%);
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+    width: 90%;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+    width: 90%;
+}
+
+/******CLASS SELECTORS******/
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.first-container {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    display: block;
+    margin: 100px auto auto auto;
+    width: 20%;
+    padding: 20px 20px 40px 20px;
+}
+
+.QR-code {
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    width: 100%;
+}
